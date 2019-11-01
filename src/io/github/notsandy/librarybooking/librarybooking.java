@@ -25,7 +25,7 @@ public class librarybooking {
 		
 		//Time Slot Page
 		driver.findElement(By.cssSelector("#eq-time-grid > div.fc-toolbar.fc-header-toolbar > div.fc-left > div > button.fc-next-button.fc-button.fc-button-primary")).click();
-		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[11]")).click();
+		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[12]")).click();
 		driver.findElement(By.cssSelector("#submit_times")).click();
 		//Confirm Room Page
 		WebElement continue_button = new WebDriverWait(driver, 10).until(ExpectedConditions.elementToBeClickable(By.cssSelector("#terms_accept")));
@@ -47,7 +47,7 @@ public class librarybooking {
 		
 		//Time Slot Page
 		driver.findElement(By.cssSelector("#eq-time-grid > div.fc-toolbar.fc-header-toolbar > div.fc-left > div > button.fc-next-button.fc-button.fc-button-primary")).click();
-		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[13]")).click();
+		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[14]")).click();
 		driver.findElement(By.cssSelector("#submit_times")).click();
 		//Confirm Room Page
 		continue_button = new WebDriverWait(driver, 10).until(ExpectedConditions.elementToBeClickable(By.cssSelector("#terms_accept")));
@@ -69,7 +69,7 @@ public class librarybooking {
 		
 		//Time Slot Page
 		driver.findElement(By.cssSelector("#eq-time-grid > div.fc-toolbar.fc-header-toolbar > div.fc-left > div > button.fc-next-button.fc-button.fc-button-primary")).click();
-		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[15]")).click();
+		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[16]")).click();
 		driver.findElement(By.cssSelector("#submit_times")).click();
 		//Confirm Room Page
 		continue_button = new WebDriverWait(driver, 10).until(ExpectedConditions.elementToBeClickable(By.cssSelector("#terms_accept")));
@@ -91,7 +91,7 @@ public class librarybooking {
 		
 		//Time Slot Page
 		driver.findElement(By.cssSelector("#eq-time-grid > div.fc-toolbar.fc-header-toolbar > div.fc-left > div > button.fc-next-button.fc-button.fc-button-primary")).click();
-		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[17]")).click();
+		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[18]")).click();
 		driver.findElement(By.cssSelector("#submit_times")).click();
 		//Confirm Room Page
 		continue_button = new WebDriverWait(driver, 10).until(ExpectedConditions.elementToBeClickable(By.cssSelector("#terms_accept")));
@@ -113,7 +113,7 @@ public class librarybooking {
 		
 		//Time Slot Page
 		driver.findElement(By.cssSelector("#eq-time-grid > div.fc-toolbar.fc-header-toolbar > div.fc-left > div > button.fc-next-button.fc-button.fc-button-primary")).click();
-		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[19]")).click();
+		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[20]")).click();
 		driver.findElement(By.cssSelector("#submit_times")).click();
 		//Confirm Room Page
 		continue_button = new WebDriverWait(driver, 10).until(ExpectedConditions.elementToBeClickable(By.cssSelector("#terms_accept")));
@@ -135,7 +135,7 @@ public class librarybooking {
 		
 		//Time Slot Page
 		driver.findElement(By.cssSelector("#eq-time-grid > div.fc-toolbar.fc-header-toolbar > div.fc-left > div > button.fc-next-button.fc-button.fc-button-primary")).click();
-		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[21]")).click();
+		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[22]")).click();
 		driver.findElement(By.cssSelector("#submit_times")).click();
 		//Confirm Room Page
 		continue_button = new WebDriverWait(driver, 10).until(ExpectedConditions.elementToBeClickable(By.cssSelector("#terms_accept")));
@@ -157,7 +157,7 @@ public class librarybooking {
 		
 		//Time Slot Page
 		driver.findElement(By.cssSelector("#eq-time-grid > div.fc-toolbar.fc-header-toolbar > div.fc-left > div > button.fc-next-button.fc-button.fc-button-primary")).click();
-		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[23]")).click();
+		driver.findElement(By.xpath("//*[@id=\"eq-time-grid\"]/div[2]/div/table/tbody/tr/td[3]/div/div/div/div[1]/div/table/tbody/tr[9]/td/div/div/a[24]")).click();
 		driver.findElement(By.cssSelector("#submit_times")).click();
 		//Confirm Room Page
 		continue_button = new WebDriverWait(driver, 10).until(ExpectedConditions.elementToBeClickable(By.cssSelector("#terms_accept")));
